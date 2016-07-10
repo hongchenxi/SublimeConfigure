@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"BracketHighlighter",
+		"ColorPick",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"Emmet",
+		"Gutter Color",
+		"HTML5",
+		"HTMLBeautify",
+		"Material Theme"
+	]
+}
